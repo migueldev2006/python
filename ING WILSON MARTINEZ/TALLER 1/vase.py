@@ -1,0 +1,6 @@
+base= int(input(print("Digite la base:" )))
+altura= int(input(print("Digite la altura: ")))
+area= (base*altura)
+perimetro= (2*base) + (2*altura)
+print("El area del rectangulo es: ",area)
+print("Ela perimetro del rectangulo: ",perimetro)
