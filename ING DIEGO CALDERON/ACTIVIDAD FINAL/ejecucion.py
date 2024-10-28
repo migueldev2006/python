@@ -2,7 +2,8 @@ from menu_biblioteca import *
 
 libros_biblioteca = {}
 libros_prestados = []
-historial_prestamos = []
+historial_prestamos = [] 
+
 
 while True:
     
